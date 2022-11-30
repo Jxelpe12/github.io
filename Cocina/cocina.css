@@ -1,0 +1,13 @@
+body {
+    background-color: #c5bdbd; }
+
+  .carousel-inner img {
+    width: 70%;
+    height: 70%;
+  }
+
+.Titulo {
+  color: black;
+  text-shadow: 2px 2px 4px #ffffff;
+}
+

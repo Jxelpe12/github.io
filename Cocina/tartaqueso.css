@@ -1,0 +1,41 @@
+body {
+    background-image: url("image\ \(1\).jpg");
+  
+  }
+  .Titulo {
+    color: rgb(255, 251, 251);
+    text-shadow: 2px 2px 4px #8d8d8d;
+  }
+
+  h3 {
+
+color: white;
+
+  }
+
+  p{
+
+color: white;
+
+
+  }
+
+
+  h4 {
+
+color: white;
+
+  }
+
+
+  hr {
+
+
+    color: white;
+  }
+
+  td {
+
+color: white;
+
+  }
